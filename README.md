@@ -73,5 +73,5 @@ This project is licensed under the MIT License.
 Pull requests are welcome. For major changes, please open an issue first to discuss the proposed changes.
 
 ## Contact
-For any queries, contact **Pradeep** at [your email].
+For any queries, contact **Pradeep** at antpradeep.8@gmail.com.
 
